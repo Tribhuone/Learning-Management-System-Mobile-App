@@ -1,5 +1,4 @@
 
-# Learning-Management-System-Mobile-App
 # 📚 Learning Management System (Mobile App)
 
 A mobile-based Learning Management System built using **React Native (Expo)**.  
@@ -88,4 +87,32 @@ expo-secure-store for storing authentication tokens.
 • UI optimizations pending
 • Error handling can be improved
 • Backend dependency required
+
+---
+
+## 📦 Development Build (APK)
+
+A **development build APK** is provided for testing purposes.
+
+### 🔽 Download APK
+👉 **[Download Development APK](https://your-apk-link-here.apk)**
+
+> ⚠ This is a development build, not a production release.  
+> Performance and logs are enabled for debugging.
+
+---
+
+## 🛠 Build Instructions (Generate APK)
+
+### Prerequisites
+
+- Node.js (v18 or above)
+- Expo CLI
+- Android Studio (for emulator) OR physical Android device
+- EAS CLI
+
+Install EAS CLI globally:
+
+```bash
+npm install -g eas-cli
 
